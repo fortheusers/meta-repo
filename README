@@ -23,33 +23,22 @@ There are some circumstances where a client may match multiple platforms, such a
 
 The different operations are detailed below.
 
-#### "modify"
-If an existing match exists for the `oldUrl` value, replace it with the `newUrl` entry, and set it up as the `newType` type (This allows flexibility to change between supported repo formats).
-```
-{
-    "op": "modify",
-    "oldUrl": "https://previousval.com",
-    "newUrl": "https://cdn.newval.com",
-    "newType": "get"
-}
-```
-
 #### "add"
-Similar to "modify", but just append a repo with `newUrl` of `newType` type, if it doesn't exist already. If it does exist, but is a different type, it will be set to the `newType`.
+Append a repo with `url` of `type`, if this URL doesn't exist already. If it does exist, but is a different type, it will be changed to the `type`.
 ```
 {
     "op": "add",
-    "newUrl": "https://cdn.newval.com",
-    "newType": "get"
+    "url": "https://cdn.newval.com",
+    "type": "get"
 }
 ```
 
 #### "remove"
-Remove the `oldUrl` from the list of repos, if it exists. If no repos remain after the removal occurs, the client will regenerate the repo list with the default 
+Remove the `url` from the list of repos, if it exists. If no repos remain after the removal occurs, the client will regenerate the repo list with the default 
 ```
 {
     "op": "remove",
-    "oldUrl": "https://badurl.com"
+    "url": "https://oldurl.com"
 }
 ```
 

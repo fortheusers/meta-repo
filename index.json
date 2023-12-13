@@ -2,30 +2,32 @@
     "suggestions": {
         "wiiu": [
             {
-                "op": "modify",
-                "oldUrl": "http://wiiubru.com/appstore",
-                "newUrl": "https://wiiu.cdn.fortheusers.org",
-                "newType": "get"
+                "op": "remove",
+                "url": "http://wiiubru.com/appstore"
             },
             {
-                "op": "modify",
-                "oldUrl": "https://wiiubru.com/appstore",
-                "newUrl": "https://wiiu.cdn.fortheusers.org",
-                "newType": "get"
+                "op": "remove",
+                "url": "https://wiiubru.com/appstore"
+            },
+            {
+                "op": "add",
+                "url": "https://wiiu.cdn.fortheusers.org",
+                "type": "get"
             }
         ],
         "switch": [
             {
-                "op": "modify",
-                "oldUrl": "http://switchbru.com/appstore",
-                "newUrl": "https://switch.cdn.fortheusers.org",
-                "newType": "get"
+                "op": "remove",
+                "url": "http://switchbru.com/appstore"
             },
             {
-                "op": "modify",
-                "oldUrl": "https://switchbru.com/appstore",
-                "newUrl": "https://switch.cdn.fortheusers.org",
-                "newType": "get"
+                "op": "remove",
+                "url": "https://switchbru.com/appstore"
+            },
+            {
+                "op": "add",
+                "url": "https://switch.cdn.fortheusers.org",
+                "type": "get"
             }
         ]
     }
