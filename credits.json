@@ -1,0 +1,321 @@
+{
+  "credits": [
+  {
+    "section": "Repo Maintenance and Development",
+    "details": "These are the primary people responsible for actively maintaining and developing the Homebrew App Store. If there's a problem, these are the ones to get in touch with!",
+    "users": [
+      {
+        "name": "pwsincd",
+        "github": "pwsincd",
+        "githubId": "20027105",
+        "discord": "pwsincd"
+      },
+      {
+        "name": "VGMoose",
+        "github": "vgmoose",
+        "githubId": "2467473",
+        "bsky": "vgmoose.dev"
+      },
+      {
+        "name": "Nightkingale",
+        "githubId": "63483138",
+        "twitter": "Nightkingale",
+        "github": "nightkingale"
+      },
+      {
+        "name": "rw-r-r_0644",
+        "githubId": "18355947",
+        "twitter": "rw_r_r_0644",
+        "github": "rw-r-r-0644"
+      },
+      {
+        "name": "crc32",
+        "githubId": "7893269",
+        "github": "crc-32"
+      },
+      {
+        "name": "CompuCat",
+        "githubId": "12215288",
+        "gitlab": "compucat",
+        "url": "compucat.me"
+      },
+      {
+        "name": "Quarky",
+        "githubId": "8533313",
+        "gitlab": "quarktheawesome",
+        "url": "heyquark.com"
+      }
+    ]
+  },
+  {
+    "section": "Library Development and Support",
+    "details": "Without the contributions to open-source libraries and projects by these people, much of the functionality within this program wouldn't be possible.",
+    "users": [
+      {
+        "name": "Maschell",
+        "githubId": "8582508",
+        "twitter": "maschelldev",
+        "github": "maschell"
+      },
+      {
+        "name": "brienj",
+        "githubId": "17801294",
+        "twitter": "xhp_creations",
+        "github": "xhp-creations"
+      },
+      {
+        "name": "Dimok",
+        "githubId": "15055714",
+        "github": "dimok789"
+      },
+      {
+        "name": "GaryOderNichts",
+        "githubId": "12049776",
+        "twitter": "GaryOderNichts",
+        "github": "GaryOderNichts"
+      },
+      {
+        "name": "FIX94",
+        "githubId": "12349638",
+        "github": "FIX94",
+        "discord": "FIX94#3446"
+      },
+      {
+        "name": "Zarklord",
+        "githubId": "1622280",
+        "twitter": "zarklore",
+        "github": "zarklord"
+      },
+      {
+        "name": "CreeperMario",
+        "githubId": "15356475",
+        "twitter": "CreeperMario258",
+        "github": "CreeperMario"
+      },
+      {
+        "name": "Ep8Script",
+        "githubId": "27195853",
+        "twitter": "ep8script",
+        "github": "ep8script"
+      }
+    ]
+  },
+  {
+    "section": "Music and Sound",
+    "details": "In the Wii U and Switch releases, these guys provide the chiptune melodies that play in the background. They make the app feel more alive, and are all-around awesome!",
+    "users": [
+      {
+        "name": "(T-T)b",
+        "twitter": "ttbchiptunes",
+        "url": "t-tb.bandcamp.com",
+        "directAvatarURL": "https://f4.bcbits.com/img/a2723574369_16.jpg"
+      },
+      {
+        "name": "drewinator4",
+        "directAvatarURL": "https://i.ytimg.com/vi/Tb02CNlhkPA/hqdefault.jpg",
+        "youtube": "drewinator4574"
+      }
+    ]
+  },
+  {
+    "section": "Interface Development and Design",
+    "details": "In one way or another, everyone in this category provided information regarding core functionality, quality-of-life changes, or the design of the user interface.",
+    "users": [
+      {
+        "name": "exelix",
+        "githubId": "13405476",
+        "twitter": "exelix11",
+        "github": "exelix11"
+      },
+      {
+        "name": "Xortroll",
+        "githubId": "33005497",
+        "github": "xortroll",
+        "patreon": "xortroll"
+      },
+      {
+        "name": "Ave",
+        "gitlab": "a",
+        "url": "ave.zone",
+        "directAvatarURL": "https://gitlab.com/uploads/-/system/user/avatar/584369/avatar.png"
+      },
+      {
+        "name": "LyfeOnEdge",
+        "githubId": "26140376",
+        "github": "lyfeonedge",
+        "discord": "Lyfe#1555"
+      },
+      {
+        "name": "Román",
+        "directAvatarURL": "https://avatars.githubusercontent.com/u/57878194"
+      },
+      {
+        "name": "Jaames",
+        "githubId": "9112876",
+        "twitter": "rakujira",
+        "github": "jaames"
+      },
+      {
+        "name": "Jacob",
+        "githubId": "12831497",
+        "github": "jacquesCedric"
+      },
+      {
+        "name": "iTotalJustice",
+        "githubId": "47043333",
+        "github": "iTotalJustice"
+      }
+    ]
+  },
+  {
+    "section": "Toolchain and Environment",
+    "details": "The organizations and people in this category enable Homebrew in general by creating and maintaining a cohesive environment for the community.",
+    "users": [
+      {
+        "name": "devkitPro",
+        "githubId": "7538897",
+        "twitter": "devkitPro",
+        "github": "devkitPro",
+        "patreon": "devkitPro",
+        "url": "devkitPro.org"
+      },
+      {
+        "name": "Wintermute",
+        "githubId": "101194",
+        "github": "wintermute",
+        "url": "devkitPro.org"
+      },
+      {
+        "name": "Fincs",
+        "githubId": "581494",
+        "twitter": "fincsdev",
+        "github": "fincs"
+      },
+      {
+        "name": "yellows8",
+        "githubId": "585494",
+        "twitter": "yellows8"
+      },
+      {
+        "name": "ReSwitched",
+        "githubId": "26338222",
+        "github": "reswitched",
+        "url": "reswitched.github.io"
+      },
+      {
+        "name": "exjam",
+        "githubId": "1302758",
+        "github": "exjam"
+      },
+      {
+        "name": "brett19",
+        "githubId": "1621627",
+        "github": "brett19"
+      }
+    ]
+  },
+  {
+    "section": "Homebrew Community Special Thanks",
+    "details": "Awesome people within the community whose work, words, or actions in some way inspired this program to exist in the manner it does.",
+    "users": [
+      {
+        "name": "Whovian9369",
+        "githubId": "5240754",
+        "twitter": "Whovian9369",
+        "github": "Whovian9369",
+        "gitlab": "Whovian9369"
+      },
+      {
+        "name": "FIX94",
+        "githubId": "12349638",
+        "github": "FIX94"
+      },
+      {
+        "name": "dojafoja",
+        "githubId": "15602819",
+        "github": "dojafoja"
+      },
+      {
+        "name": "misson20000",
+        "githubId": "616626",
+        "github": "misson20000",
+        "discord": "misson20000#0752"
+      },
+      {
+        "name": "roblabla",
+        "githubId": "1069318",
+        "github": "roblabla",
+        "discord": "roblabla#8145"
+      },
+      {
+        "name": "tomGER",
+        "githubId": "25822956",
+        "twitter": "tumGER",
+        "github": "tumGER"
+      },
+      {
+        "name": "sirocyl",
+        "githubId": "944067",
+        "twitter": "sirocyl",
+        "github": "sirocyl"
+      },
+      {
+        "name": "m4xw",
+        "githubId": "13141469",
+        "twitter": "m4xwdev",
+        "github": "m4xw"
+      },
+      {
+        "name": "vaguerant",
+        "githubId": "5259025",
+        "github": "vaguerant"
+      },
+      {
+        "name": "Koopa",
+        "githubId": "13039555",
+        "twitter": "CodingKoopa",
+        "github": "CodingKoopa"
+      },
+      {
+        "name": "Nikki",
+        "githubId": "3280345",
+        "twitter": "NWPlayer123",
+        "github": "NWPlayer123"
+      },
+      {
+        "name": "shchmue",
+        "githubId": "7903403",
+        "github": "shchmue"
+      },
+      {
+        "name": "CTCaer",
+        "githubId": "3665130",
+        "twitter": "CTCaer",
+        "github": "CTCaer"
+      },
+      {
+        "name": "SciresM",
+        "githubId": "8676005",
+        "twitter": "SciresM",
+        "github": "SciresM"
+      },
+      {
+        "name": "Shinyquagsire",
+        "githubId": "1224096",
+        "twitter": "shinyquagsire",
+        "github": "shinyquagsire23"
+      },
+      {
+        "name": "Marionumber1",
+        "githubId": "775431",
+        "twitter": "MrMarionumber1"
+      },
+      {
+        "name": "jam1garner",
+        "githubId": "8260240",
+        "github": "jam1garner",
+        "url": "jam1.re"
+      }
+    ]
+  }]
+}
