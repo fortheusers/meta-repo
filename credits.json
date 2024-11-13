@@ -25,7 +25,6 @@
       {
         "name": "rw-r-r_0644",
         "githubId": "18355947",
-        "twitter": "rw_r_r_0644",
         "github": "rw-r-r-0644"
       },
       {
@@ -71,7 +70,7 @@
       {
         "name": "GaryOderNichts",
         "githubId": "12049776",
-        "twitter": "GaryOderNichts",
+        "bsky": "garyodernichts",
         "github": "GaryOderNichts"
       },
       {
@@ -83,13 +82,11 @@
       {
         "name": "Zarklord",
         "githubId": "1622280",
-        "twitter": "zarklore",
         "github": "zarklord"
       },
       {
         "name": "CreeperMario",
         "githubId": "15356475",
-        "twitter": "CreeperMario258",
         "github": "CreeperMario"
       },
       {
@@ -152,7 +149,7 @@
       {
         "name": "Jaames",
         "githubId": "9112876",
-        "twitter": "rakujira",
+        "bsky": "jaames",
         "github": "jaames"
       },
       {
@@ -180,7 +177,7 @@
       {
         "name": "devkitPro",
         "githubId": "7538897",
-        "twitter": "devkitPro",
+        "mastodon": "@devkitPro@mastodon.gamedev.place",
         "github": "devkitPro",
         "patreon": "devkitPro",
         "url": "devkitPro.org"
@@ -194,13 +191,13 @@
       {
         "name": "Fincs",
         "githubId": "581494",
-        "twitter": "fincsdev",
+        "mastodon": "@fincs@mastodon.social",
         "github": "fincs"
       },
       {
         "name": "yellows8",
         "githubId": "585494",
-        "twitter": "yellows8"
+        "github": "yellows8"
       },
       {
         "name": "ReSwitched",
@@ -227,9 +224,8 @@
       {
         "name": "Whovian9369",
         "githubId": "5240754",
-        "twitter": "Whovian9369",
-        "github": "Whovian9369",
-        "gitlab": "Whovian9369"
+        "mastodon": "@whovian9369@digipres.club",
+        "github": "Whovian9369"
       },
       {
         "name": "FIX94",
@@ -255,14 +251,13 @@
       },
       {
         "name": "tomGER",
-        "githubId": "25822956",
-        "twitter": "tumGER",
-        "github": "tumGER"
+        "directAvatarURL": "https://tomger.eu/assets/logo-961232ef.png",
+        "url": "tomger.eu"
       },
       {
         "name": "sirocyl",
         "githubId": "944067",
-        "twitter": "sirocyl",
+        "mastodon": "@social.treehouse.systems",
         "github": "sirocyl"
       },
       {
@@ -279,13 +274,13 @@
       {
         "name": "Koopa",
         "githubId": "13039555",
-        "twitter": "CodingKoopa",
+        "mastodon": "@koopa@social.treehouse.systems",
         "github": "CodingKoopa"
       },
       {
         "name": "Nikki",
         "githubId": "3280345",
-        "twitter": "NWPlayer123",
+        "bsky": "nwplayer123.bsky.social",
         "github": "NWPlayer123"
       },
       {
@@ -308,7 +303,8 @@
       {
         "name": "Shinyquagsire",
         "githubId": "1224096",
-        "twitter": "shinyquagsire",
+        "bsky": "shinyquagsire.bowser.gay",
+        "mastodon": "@ShinyQuagsire@mastodon.social",
         "github": "shinyquagsire23"
       },
       {
