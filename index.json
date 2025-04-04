@@ -29,6 +29,20 @@
                 "url": "https://switch.cdn.fortheusers.org",
                 "type": "get"
             }
+        ],
+        "wii": [
+            {
+                "op": "add",
+                "url":"https://hbb1.oscwii.org",
+                "type":"osc"
+            }
+        ],
+        "3ds": [
+            {
+                "op": "add",
+                "url":"https://db.universal-team.net",
+                "type":"unistore"
+            }
         ]
     }
 }
