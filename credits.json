@@ -70,7 +70,7 @@
       {
         "name": "GaryOderNichts",
         "githubId": "12049776",
-        "bsky": "garyodernichts",
+        "bsky": "garyodernichts.bsky.social",
         "github": "GaryOderNichts"
       },
       {
@@ -113,6 +113,47 @@
         "youtube": "drewinator4574"
       }
     ]
+  },
+  {
+    "section": "Localization and Translations",
+    "details": "Estos colaboradores se encargan de hacer que tu experiencia con la aplicación sea lo más cómoda posible, adaptándose a tu idioma nativo.",
+    "users": [
+      {
+        "name": "sskyNS",
+        "githubId": "121209531",
+        "github": "sskyNS",
+        "url": "(Chinese)"
+      },
+      {
+        "name": "MYusufY",
+        "githubId": "122603576",
+        "github": "MYusufY",
+        "url": "(Turkish)"
+      },
+      {
+        "name": "DDinghoya",
+        "githubId": "19677686",
+        "github": "DDinghoya",
+        "url": "(Korean)"
+      },
+      {
+        "name": "Gabubu",
+        "githubId": "88589756",
+        "github": "GabubuAvailable",
+        "url": "(Romanian)"
+      },
+      {
+        "name": "AngevinNS",
+        "githubId": "215973144",
+        "github": "AngevinNS",
+        "url": "(Russian)"
+      },
+      {
+        "name": "GewoonLeonYT",
+        "githubId": "35887230",
+        "github": "GewoonLeonYT"
+        "url": "(Dutch)"
+      }
   },
   {
     "section": "Interface Development and Design",
