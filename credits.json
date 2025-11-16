@@ -19,7 +19,7 @@
       {
         "name": "Nightkingale",
         "githubId": "63483138",
-        "twitter": "Nightkingale",
+        "url": "nightkingale.com",
         "github": "nightkingale"
       },
       {
@@ -53,13 +53,13 @@
       {
         "name": "Maschell",
         "githubId": "8582508",
-        "twitter": "maschelldev",
+        "url": "x.com/maschelldev",
         "github": "maschell"
       },
       {
         "name": "brienj",
         "githubId": "17801294",
-        "twitter": "xhp_creations",
+        "url": "x.com/xhp_creations",
         "github": "xhp-creations"
       },
       {
@@ -92,7 +92,7 @@
       {
         "name": "Ep8Script",
         "githubId": "27195853",
-        "twitter": "ep8script",
+        "url": "x.com/ep8script",
         "github": "ep8script"
       }
     ]
@@ -103,7 +103,7 @@
     "users": [
       {
         "name": "(T-T)b",
-        "twitter": "ttbchiptunes",
+        "bsky": "ttb.bsky.social",
         "url": "t-tb.bandcamp.com",
         "directAvatarURL": "https://f4.bcbits.com/img/a2723574369_16.jpg"
       },
@@ -121,7 +121,7 @@
       {
         "name": "exelix",
         "githubId": "13405476",
-        "twitter": "exelix11",
+        "url": "x.com/exelix11",
         "github": "exelix11"
       },
       {
@@ -166,7 +166,7 @@
         "name": "Kenney",
         "githubId": "6953026",
         "url": "kenney.nl",
-        "twitter": "KenneyNL"
+        "bsky": "kenney.nl"
       }
     ]
   },
@@ -263,7 +263,7 @@
       {
         "name": "m4xw",
         "githubId": "13141469",
-        "twitter": "m4xwdev",
+        "url": "x.com/m4xwdev",
         "github": "m4xw"
       },
       {
@@ -291,13 +291,13 @@
       {
         "name": "CTCaer",
         "githubId": "3665130",
-        "twitter": "CTCaer",
+        "url": "x.com/CTCaer",
         "github": "CTCaer"
       },
       {
         "name": "SciresM",
         "githubId": "8676005",
-        "twitter": "SciresM",
+        "url": "x.com/SciresM",
         "github": "SciresM"
       },
       {
@@ -310,7 +310,7 @@
       {
         "name": "Marionumber1",
         "githubId": "775431",
-        "twitter": "MrMarionumber1"
+        "url": "x.com/MrMarionumber1"
       },
       {
         "name": "jam1garner",
