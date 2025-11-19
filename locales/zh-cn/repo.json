@@ -5,6 +5,18 @@
       "title": "自制应用商店",
       "description": "下载自制应用程序",
       "details": "Homebrew App Store 允许您直接在应用内下载适用于 HBL 的自制应用。已安装的应用也可以重新安装、更新或删除。音乐由 (T-T)b 提供（在 Google 搜索 t tb chiptunes！）。感谢 pwsincd、brienj 和 dimok！"
-    }
+    },
+    {
+      "name": "KeyX",
+      "title": "按键助手",
+      "description": "支持按键连发、映射和宏",
+      "details": "支持连发、按键映射和宏功能\\n\\n精美现代的界面设计\\n修改参数可立即生效\\n主页蓝色图标表示已重新映射的按键\\n黄色角标表示已启用连发的按键\\n红色角标表示已绑定宏的按键"
+    },
+    {
+      "name": "NXModManager",
+      "title": "本地模组管理器",
+      "description": "仅用于管理本地的MOD，无下载功能",
+      "details": "在线功能需极大的维护成本，所以本插件仅用于本地MOD管理。\\n\\n现代美观的界面设计\\n跟随系统语言自动本土化UI文本\\n支持快速搜索、拼音排序\\n支持手动添加MOD的名称、描述、分类、版本号\\n支持 MTP 传输（仅用于添加 MOD 文件）" 
+    }      
   ]
 }
