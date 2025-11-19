@@ -1,0 +1,10 @@
+{
+  "packages": [
+    {
+      "name": "appstore",
+      "title": "自制应用商店",
+      "description": "下载自制应用程序",
+      "details": "Homebrew App Store 允许您直接在应用内下载适用于 HBL 的自制应用。已安装的应用也可以重新安装、更新或删除。音乐由 (T-T)b 提供（在 Google 搜索 t tb chiptunes！）。感谢 pwsincd、brienj 和 dimok！"
+    }
+  ]
+}
