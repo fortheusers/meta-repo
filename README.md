@@ -5,6 +5,11 @@ It serves as an index of suggested actions for the [hb-appstore](https://github.
 
 For example, some legacy users have local repo config files that still point to the non-CDN servers. Versions of hb-appstore 2.4 and up reference this meta-repo to see if there are any known repos that need their URLs updated. This can also be helpful if new repos are added (for example of some packages are split up) or some old repo URLs go down and need to be changed.
 
+### Localization
+The Meta repo can also override any fields on the main repo for an individual package. This should contain high-level human-readable information for text fields such as `title`, `description`, or `details`. Operational information about the package (such as size, version, license, etc) should belong in the main repo.
+
+For example, in [zh-cn.json](https://github.com/fortheusers/meta-repo/blob/main/zh-cn.json) any fields in the listed package names are combined with the fields from the main repo [repo.json](https://wiiu.cdn.fortheusers.org/repo.json), so that the translated text can be displayed in the app instead.
+
 ### Format
 The top level contains a "suggestions" key, which provides a list of potential operations that the client can take. Each key within that object represents the platform that the operations should apply to. The operations will only run on clients that match the platform.
 
